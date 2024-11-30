@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="photography" />
+    <string name="physics" />
+    <string name="tech" />
+    <string name="painting" />
+    <string name="music" />
+    <string name="lifestyle" />
+    <string name="law" />
+    <string name="journalism" />
+    <string name="history" />
+    <string name="drawing" />
+    <string name="geology" />
+    <string name="gaming" />
+    <string name="film" />
+    <string name="finance" />
+    <string name="fashion" />
+    <string name="engineering" />
+    <string name="ecology" />
+    <string name="design" />
+    <string name="culinary" />
+    <string name="business" />
+    <string name="crafts" />
+    <string name="biology" />
+    <string name="automotive" />
+    <string name="architecture" />
+</resources>
